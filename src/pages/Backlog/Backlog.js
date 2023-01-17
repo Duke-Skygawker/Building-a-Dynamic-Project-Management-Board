@@ -22,3 +22,5 @@ function Backlog() {
     </div>
   );
 }
+
+export default Backlog;
