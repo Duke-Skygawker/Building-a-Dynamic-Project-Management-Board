@@ -2,6 +2,8 @@ import styled from "styled-components";
 import Task from "../../components/Task/Task";
 import useDataFetching from "../../hooks/useDataFetching";
 
+// backlog can still be made dynamic with drag'n'drop
+
 const BacklogWrapper = styled.div`
   display: flex;
   flex-direction: column;
